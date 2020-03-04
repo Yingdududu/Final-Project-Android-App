@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">PersonManager</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="headerImg">Profile Image</string>
+    <string name="prompt_user">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="prompt">Create An Account</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">The email has already exist</string>
+    <string name="error_invalid_password">The password is too short</string>
+    <string name="error_incorrect_password">The password is not valid</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="login_success">Login Successfully</string>
+    <string name="register">Register</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+
+    <string name="title_money">Money</string>
+    <string name="title_investment">Investment</string>
+    <string name="title_schedule">Schedule</string>
+    <string name="title_account">Account</string>
+
+    <string name="cancle">Cancle</string>
+    <string name="title">Choose a time</string>
+    <string name="commit">Confirm</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="day">Day</string>
+    <string name="hour">Hour</string>
+    <string name="minute">Minute</string>
+
+    <string name="string_income">Income</string>
+    <string name="string_payout">Expense</string>
+    <string name="expend_name">xxxx Restaurant</string>
+    <string name="string_remark">Very good food</string>
+    <string name="expend_add">Add</string>
+    <string name="hint_selecttype">Food</string>
+    <string name="expendnumber">0.0</string>
+    <string name="menu_balance_statistics">Balance</string>
+    <string name="menu_add_schedule">Add schedule</string>
+</resources>
